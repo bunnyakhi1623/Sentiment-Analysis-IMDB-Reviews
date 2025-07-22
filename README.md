@@ -54,8 +54,8 @@ The model, a simple neural network with an embedding layer, achieved the followi
 - Conduct hyperparameter tuning for better model performance.
 
 ## License
-This project is licensed under the Apache 2.0 & MIT License.
+This project is licensed under the Apache-2.0 & MIT License.
 
 ## Contact
 Naga Phanindra Reddy Challa/ Naga Challa
-Optional: Link to your LinkedIn profile, https://www.linkedin.com/in/c-phanindra-reddy-9aaa99176/
+Link to your LinkedIn profile, https://www.linkedin.com/in/c-phanindra-reddy-9aaa99176/
